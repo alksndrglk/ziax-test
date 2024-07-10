@@ -3,3 +3,4 @@ aiohttp-apispec==2.2.3
 aiomisc~=9.6.11
 ConfigArgParse~=1.0
 pymorphy2==0.9.1
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
